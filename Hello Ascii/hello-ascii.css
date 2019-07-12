@@ -1,0 +1,44 @@
+#h-left{
+    position:absolute;
+    margin-left: 50px;
+}
+#h-right{
+    position:absolute;
+    margin-left: 165px;
+    text-align: right;
+}
+
+#e{
+    position:absolute;
+    margin-left: 230px;
+}
+
+#L1{
+   position:absolute;
+    margin-left: 400px; 
+}
+#L2{
+   position:absolute;
+    margin-left: 560px; 
+}
+
+#o-left{
+    width: 75px;
+    position:absolute;
+    margin-left: 720px; 
+}
+
+#o-left > h1{
+    text-align: right;
+}
+
+#o-right{
+    width: 75px;
+    position:absolute;
+    margin-left: 800px;
+    text-align: right;
+}
+
+#o-right > h1{
+    text-align: left;
+}
